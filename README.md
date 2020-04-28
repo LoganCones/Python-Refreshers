@@ -1,3 +1,11 @@
+@settings {
+  font-size: 100;
+}
+
+element {
+  font-size: 75;
+}
+
 # Python_Refreshers
 This repo will serve as a place to store external training that I do in Python.  
 
